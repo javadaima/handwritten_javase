@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/handwritten_javase.iml" filepath="$PROJECT_DIR$/.idea/handwritten_javase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/io/io.iml" filepath="$PROJECT_DIR$/io/io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy/proxy.iml" filepath="$PROJECT_DIR$/proxy/proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxyDemo/proxyDemo.iml" filepath="$PROJECT_DIR$/proxyDemo/proxyDemo.iml" />
+    </modules>
+  </component>
+</project>
