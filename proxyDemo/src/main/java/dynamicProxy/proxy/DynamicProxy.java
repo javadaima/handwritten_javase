@@ -33,5 +33,8 @@ public class DynamicProxy implements InvocationHandler {
         UserService userProxy = (UserService) Proxy.newProxyInstance(classLoader, interfaces, dynamicProxy);
         userProxy.addUser();
 
+
+
+
     }
 }
